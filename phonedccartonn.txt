@@ -1,0 +1,14 @@
+m.dcinside.com##.up-add 
+m.dcinside.com##.gall-detail-lnktb > .rt 3 
+m.dcinside.com##.dori-box 
+m.dcinside.com##.dori-icon-txt 
+m.dcinside.com##.dori-icon.sp-icon 6 
+m.dcinside.com##.num ||nstatic.dcinside.com/dc/logo_day/logo_dc2X_rina_5.gif$image 
+m.dcinside.com##.gall-thum-btm-inner > .ginfo2 > li 
+m.dcinside.com###listthum2 .rt > .ct 10 
+m.dcinside.com###listthum3 > li > .rt > .ct 
+m.dcinside.com###nonrecomm_btn 12 
+m.dcinside.com##.ct-box > .ct 13  
+m.dcinside.com##li:nth-of-type(3) 
+m.dcinside.com##.up > span 
+m.dcinside.com##.up
