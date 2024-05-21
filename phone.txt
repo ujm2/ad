@@ -1,0 +1,83 @@
+g.tivan.naver.com##
+m.naver.com##.MM_DA_SMARTCHANNEL.id_smartchannel.id_nmap.grid1
+m.naver.com##.id_search.wrap > .id_nmap
+m.naver.com##.id_comp_now_player.grid1
+m.naver.com##.cp_channel_list
+m.naver.com##div.id_comp_sports.grid1:nth-of-type(6)
+m.naver.com##div.id_comp_sports.grid1 > .comp_sports.comp_common
+m.naver.com##.id_comp_shortform_new.grid1
+n.news.naver.com##.pc_hidden.shortform
+m.naver.com##.MM_SHORTFORM_REFRESH_CARD.native_scroll.scroll-area
+
+
+namu.wiki##.has-tooltip
+
+! 2022-05-14 http://gltv24.com
+gltv24.com###addon-popup-layer
+gltv24.com##div.xe-widget-wrapper > div > div
+gltv24.com##[href="http://gltv24.com/cs_center/7068495"]
+gltv24.com##p > [href="http://btr-vip.com/"]
+gltv24.com##.logo > [href="http://gltv24.com/"]
+
+tv.kakao.com#@##adBlockPixelTag
+tv.kakao.com#@#.banner_ad
+t1.daumcdn.net/*kakaoad*
+play-tv.kakao.com#@##adBlockPixelTag
+play-tv.kakao.com#@#.banner_ad
+@@webid.ad.daum.net/sync?v=0.0.1
+@@videoads.kakao.com/adserver/api/v2/vmap
+
+m.dcinside.com##.dori-box
+m.dcinside.com##.dori-icon-txt
+m.dcinside.com##.dori-icon.sp-icon
+m.dcinside.com##.up-add
+
+m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(1)
+m.youtube.com##ytm-sentiment-factoid-renderer > ytm-factoid-renderer > .factoid
+m.youtube.com##.factoids > ytm-factoid-renderer:nth-of-type(1) > .factoid
+m.youtube.com##.slim-owner-bylines-modern.slim-owner-bylines > .subhead
+m.youtube.com##.comments-entry-point-header-text > .formatted-string-text
+m.youtube.com##.secondary-text.c4-tabbed-header-subscriber-count
+m.youtube.com##.subhead
+m.youtube.com##.slim-video-information-title-and-badges > div > .secondary-text > .yt-core-attributed-string
+m.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+m.youtube.com##.comments-entry-point-header-text > .yt-core-attributed-string
+m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
+m.youtube.com##.watch-card-metadata-container
+
+
+m.fmkorea.com##.comment_count
+m.fmkorea.com##.voted_count
+m.fmkorea.com##.responsive_fill.fm_google_a
+m.fmkorea.com##.css3pie.bg_f_f9.fdb_tag
+m.fmkorea.com##.adpost_with_thumbnail.m.adpost_m.adpost_index.adpost
+m.fmkorea.com##.power_link_list_wrapper.fmad_extra_wrapper.fmad_naver_power_link.ad_wrapper.fmad_wrapper
+||static.fmkorea.com/modules/board/skins/sketchbook5_elkha/img/blank.gif$image
+m.fmkorea.com##li.clear > [href="/5996222023"]
+||static.fmkorea.com/modules/board/skins/sketchbook5_elkha/img/blank.gif$image
+m.fmkorea.com##li.clear > [href="/5996220637"]
+m.fmkorea.com##span:nth-of-type(5)
+m.fmkorea.com##span:nth-of-type(4)
+m.fmkorea.com##.clear.btm_area
+m.fmkorea.com##.m.adpost_with_thumbnail.adpost_search.adpost
+m.fmkorea.com##.new_voted_count.btn_img
+m.fmkorea.com##.bd_lst_wrp > [src]
+m.fmkorea.com##.ad_wrapper.fmad_naver_power_link.fmad_wrapper  
+
+
+m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(3)
+m.youtube.com##.c4-tabbed-header-modern-metadata
+m.youtube.com##p:nth-of-type(3) > .yt-core-attributed-string
+m.youtube.com##.comments-entry-point-header-count > .yt-core-attributed-string
+m.youtube.com##ytm-badge-and-byline-renderer:nth-of-type(2)
+m.youtube.com##ytm-toggle-button-renderer > .yt-spec-button-shape-with-label--is-overlay.yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
+m.youtube.com##.icon-shorts_comment > .yt-spec-button-shape-with-label--is-overlay.yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
+m.youtube.com##.ytm-comments-entry-point-teaser-content > .yt-core-attributed-string
+m.youtube.com##ytm-comments-entry-point-teaser-renderer
+
+kr2.hasha.in##div.rTQr.sc-cUEOzv
+kr2.hasha.in##.bg-hasha-1-l.rounded.text.p-5 > div > .justify-center.flex > div
+kr2.hasha.in##span:nth-of-type(2)
+kr2.hasha.in##.border-hasha-2\/\[\.7\].border-t
+kr2.hasha.in##.border-hasha-2\/\[\.7\].border-t
+kr2.hasha.in##div.iewsdZ.sc-hiDMwi
