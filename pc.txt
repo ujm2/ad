@@ -1,0 +1,518 @@
+www.youtube.com##.widescreen.ytd-video-masthead-ad-primary-video-renderer.style-scope
+www.youtube.com###owner-sub-count
+www.youtube.com##.ytd-video-view-count-renderer.style-scope.view-count
+www.youtube.com###subscriber-count
+www.youtube.com###subscribers
+www.youtube.com##.ytp-videowall-still-info-author
+youtube.com###thumbnail-attribution
+youtube.com##yt-formatted-string.ytd-channel-about-metadata-renderer.style-scope:nth-of-type(3)
+youtube.com###metadata-line > span.style-scope.ytd-video-meta-block:first-child
+www.youtube.com##.ytd-comments-header-renderer.style-scope.count-text > span.yt-formatted-string.style-scope
+www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
+youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
+www.youtube.com##span.bold.yt-formatted-string.style-scope:nth-of-type(1)
+www.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
+www.youtube.com###info > span.yt-formatted-string.style-scope.bold
+www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
+www.youtube.com###video-count
+www.youtube.com##.ytd-ad-slot-renderer.style-scope > .ytd-in-feed-ad-layout-renderer.style-scope
+
+
+
+melon.com###conts > div.ms_wrap_cont > div.recnt_musictoday:nth-child(5) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:first-child > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:nth-child(2) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:nth-child(3) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:nth-child(4) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###conts > div.ms_wrap_cont > div.wrap_musicspecl.list_type01.line_top:last-child > ul > li:last-child > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###divSongList_25 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###divSongList_19 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###divSongList_13 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###divSongList_7 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:first-child > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(2) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(3) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(4) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(5) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(6) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(7) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(8) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(9) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(10) > td.t_left:nth-child(6)
+melon.com###divSongList_10 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:last-child > td.t_left:nth-child(6)
+melon.com###divSongList_29 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:last-child > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(9) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(8) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(7) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(6) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(5) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(4) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(3) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:nth-child(2) > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###pageList > div.wrap_musicspecl:first-child > ul > li:first-child > div.musicspecl_list > dl:last-child > dd.like_btn:last-child > p.left
+melon.com###divSongList_4 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:first-child > td.t_left:nth-child(6)
+melon.com###divSongList_4 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(2) > td.t_left:nth-child(6)
+melon.com###divSongList_4 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(3) > td.t_left:nth-child(6)
+melon.com###divSongList_4 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:last-child > td.t_left:nth-child(6)
+melon.com###divSongList_4 > div.tb_list.singl.d_song_list > table > tbody:last-child > tr > td.t_left:nth-child(4)
+melon.com###d_like_count
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:first-child > td.t_left:nth-child(6) > div.wrap.right_none
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(2) > td.t_left:nth-child(6) > div.wrap.right_none
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(3) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(4) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(5) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(6) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(7) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(8) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(9) > td.t_left:nth-child(6)
+melon.com###divSongList_5 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:last-child > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:first-child > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(2) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(4) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(5) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(7) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(8) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(10) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(11) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(12) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(13) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(14) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:last-child > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(3) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(6) > td.t_left:nth-child(6)
+melon.com###divSongList_56 > div.tb_list.d_song_list > table:first-child > tbody:last-child > tr:nth-child(9) > td.t_left:nth-child(6)
+
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-sgpdfd:first-child > div.css-knfhfe > div.css-1ydjg2i:last-child > div.countInfoBox.css-1lmggoi:nth-child(2) > div.css-bvpmim:first-child > div.css-fjzm5m:last-child
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-sgpdfd:first-child > div.css-knfhfe > div.css-1ydjg2i:last-child > div.countInfoBox.css-1lmggoi:nth-child(2) > div.css-11vmqkl:last-child > div.css-12ymafv:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:first-child > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:nth-child(2) > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:nth-child(3) > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:last-child > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3643684486.searchBox.searchBox_pc > div.jsx-3643684486.searchWrap.searchWrap_pc > div.jsx-3643684486.searchContents.searchContents_pc:last-child > div:nth-child(5) > div.css-151xn98 > a.css-4cffwv > div.css-10o3hg3:last-child > div.css-10ihhe4:nth-child(2) > div.css-ifcwub > div.text-ellipsis.css-1c1ahuy:nth-child(2)
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child > div.css-rohcl > div.css-16slecq:first-child
+page.kakao.com###root > div.jsx-885677927.mainContents.mainContents_pc.hiddenMenuContent:nth-child(3) > div.jsx-3842833265.contents.contents_pc > div.css-50u2kp > div.css-tgplph:last-child
+page.kakao.com##.mt-30pxr
+page.kakao.com##.css-17v86ak > .css-ifcwub > .css-1c1ahuy.text-ellipsis
+page.kakao.com##.css-j3o65g
+page.kakao.com##.css-ge8e1s > .css-ifcwub > .css-1c1ahuy.text-ellipsis
+page.kakao.com##.css-qm6qod > .css-ifcwub > .css-1c1ahuy.text-ellipsis
+page.kakao.com###root > div.jsx-3157985592.mainContents.mainContents_pc:nth-child(3) > div.jsx-1520785802.contents.contents_pc:last-child > div.css-1cweefb:nth-child(5)
+page.kakao.com##span.css-1797ph-Text.align-middle.break-all:nth-of-type(2)
+
+! 2022-05-01 https://webtoon.kakao.com
+||kr-a.kakaopagecdn.com/web/static/viewer/icon-good-light-938316084ac954b3806bc18c8432dd0b.svg$image
+webtoon.kakao.com##.lg\:px-0.px-20.overflow-hidden.justify-center.h-\[184px\].flex.relative
+
+tv.kakao.com#@##adBlockPixelTag
+tv.kakao.com#@#.banner_ad
+t1.daumcdn.net/*kakaoad*
+play-tv.kakao.com#@##adBlockPixelTag
+play-tv.kakao.com#@#.banner_ad
+@@webid.ad.daum.net/sync?v=0.0.1
+@@videoads.kakao.com/adserver/api/v2/vmap
+
+webtoon.kakao.com###root > main.h-full.pt-0:last-child > div.h-full.relative.mx-auto.my-0.w-full.lg\:w-default-max-width > div.page.bg-background.activePage > div.h-full.relative.w-full > div.h-full.overflow-hidden.w-full.z-1.fixed.inset-0.bg-dark-background:first-child > div.w-full.left-0.top-0.relative:nth-child(2) > div.content-main-wrapper.opacity-0.invisible.relative.current-content-main.opacity-100.\!visible.z-1:first-child > div.pb-20.pt-96:first-child > div.relative.mx-auto.my-0.w-full.lg\:w-default-max-width:last-child > div.mx-20.flex.justify-between.relative.z-1.pointer-events-auto.pt-12:last-child > div.overflow-hidden.cursor-pointer > div.flex.items-center.h-14.mt-7:last-child
+
+sports.news.naver.com##.section_home_ad
+sports.news.naver.com##.home_shopping
+sports.news.naver.com###sports_placard_tgtLREC
+sports.news.naver.com##.shopping_section
+sports.news.naver.com##.home_side_ad
+sports.news.naver.com##div.home_issue_box:nth-of-type(1)
+sports.news.naver.com###_section_home_center_right_opentalk
+sports.news.naver.com##.home_opentalk
+
+comic.naver.com##.off.u_likeit_btn
+comic.naver.com##div.asideBox:nth-of-type(4)
+comic.naver.com##div.asideBox:nth-of-type(5)
+comic.naver.com##.tit_area > .vote_lst
+comic.naver.com###sectionContWide > .vote_lst
+comic.naver.com##div.asideBox:nth-of-type(1)
+comic.naver.com##.on.u_likeit_btn
+comic.naver.com##.u_cnt
+comic.naver.com###ppl_image_section
+series.naver.com###cbox_module > div.u_cbox_wrap.u_cbox_ko.u_cbox_type_sort_best
+series.naver.com###container > div.aside.NE\=a\:cmi:first-child > div.aside_air:nth-child(5)
+series.naver.com###container > div.content_wrap:nth-child(3) > div.aside:last-child > div.bstop10.NE\=a\:rtp:last-child
+comic.naver.com###onlyRightAd
+comic.naver.com##.band_banner
+comic.naver.com##.new_comic
+comic.naver.com###footer
+comic.naver.com##.ad_banner_premium
+comic.naver.com##.Aside__aside_wrap--iF5ju > div.component_wrap:nth-of-type(1)
+comic.naver.com##div.component_wrap:nth-of-type(2)
+
+||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
+||naverwebtoon-phinf.pstatic.net/20220418_182/1650266281616T3Kgt_JPEG/upload_4495992003248932035.JPEG$image
+||comic.naver.com/comment/comment$subdocument
+||comic.naver.com/comment/comment?titleId=755674&no=8$subdocument
+||ssl.pstatic.net/static/comic/images/bnr_partnership.jpg$image
+
+
+www.naver.com##._NM_THEME_TAB.group_theme
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(5)
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(6)
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(7)
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(8)
+www.naver.com##div._NM_API_UI.group_theme:nth-of-type(9)
+
+www.naver.com###rollingboard_container
+www.naver.com##.sc_shopcast
+||adcr.naver.com^
+@@||shopping.naver.net/ad/$image,script,stylesheet,domain=naver.com
+||castbox.shopping.naver.com/shoppingboxnew/main.
+search.shopping.naver.com##li[class^="basicList_item__"].ad
+msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
+||www.naver.com/shoppingbox/shoppingboxnew/main.nhn?mode=plusdeal&domain=N$subdocument
+www.naver.com###NM_TOP_BANNER
+||www.naver.com/shoppingbox/shoppingboxnew/main.nhn$subdocument
+n.news.naver.com###contents > .is_border_none._da_banner.ad_box.r_group_comp
+
+! 2022-05-14 https://noonoo.tv
+noonoo.tv###container > .partner-banner-wrap
+noonoo.tv##.swiper-slide-active.swiper-slide > .flex-rolling > li > .posted-info > .like
+noonoo.tv##.swiper-slide-active.swiper-slide > .flex-rolling > li > .posted-info > .like
+noonoo.tv##.view-comment-area
+noonoo.tv###good_button
+noonoo.tv##.view-content > .partner-banner-wrap > .partner-banner-content
+noonoo.tv##.google-ads-content
+
+
+gltv24.com###addon-popup1-layer
+gltv24.com###addon-popup2-layer
+gltv24.com##.relative
+gltv24.com###bottom
+gltv24.com##.content_widget_bar
+
+
+coocha.co.kr##.group-power-link
+||googleadservices.com^
+||partner.googleadservices.com^
+##iframe[src^="https://googleads.g.doubleclick.net/"]
+||tpc.googlesyndication.com^
+||adservice.google.co.*
+||pagead2.googlesyndication.com^
+||safeframe.googlesyndication.com^
+||adservice.google.com^
+||partner.googleadservices.com^
+||googletagservices.com^
+##div[id^="google_ads_iframe_"]
+##ins.adsbygoogle
+||googlesyndication.com/pagead/
+||google.com/adsense/
+
+
+namu.wiki##iframe[src*="//arca.live/external/callad?"]
+namu.wiki##iframe[src*="//arca.live/static/ad/"]
+namu.wiki#?#article div[class] > div[id]:not([class]):not(:has(> *))
+namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
+namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
+namu.wiki##.has-tooltip
+namu.wiki##[src="//arca.live/external/callad"]
+https://adservice.google.com/adsid/integrator.js?domain=namu.wiki
+https://adservice.google.co.kr/adsid/integrator.js?domain=namu.wiki
+||minor.town/static/ad/^$domain=namu.wiki
+||arca.live/static/ad/$domain=namu.wiki
+||namu.live/api/ads^$domain=namu.live
+||namu.live/static/ad/$domain=namu.wiki
+arca.live,minor.town,namu.live##div.ad
+arca.live,minor.town,namu.live##iframe[src^="/api/ads"]
+namu.wiki##article>div[id]:not([class])~div[class]:not([id])
+namu.wiki##aside>div[id]>div[id]:first-child
+namu.wiki##div#search-ad
+namu.wiki##div.ad
+namu.wiki##div.namuwiki-toc-ad
+namu.wiki##div.test-ad-card
+namu.wiki##iframe[src^="//arca.live/static/ad/"]
+namu.wiki##iframe[src^="//minor.town/static/ad/"]
+namu.wiki##iframe[src^="//namu.live/static/ad/"]
+namu.wiki#?#article div[class] > div[class]:not(:has(> *)) ~ div[class]:has(> div[style*=" "])
+
+gall.dcinside.com##li#comment_li_0.dory.ub-content > .clear.cmt_info
+gall.dcinside.com##.rightbanner1
+gall.dcinside.com##.view_ad_wrap
+gall.dcinside.com##.ub-writer.gall_writer > .fr
+gall.dcinside.com###wif_adx_banner_wrap
+www.dcinside.com##.dc_logo > [href="https://www.dcinside.com/"]
+www.dcinside.com##.rightbanner
+gall.dcinside.com##.r_dcmedia.content_box
+gall.dcinside.com##.r_recommend.content_box
+
+! 2022-05-20 https://novelpia.com
+novelpia.com##.s_inv.mobile_hidden .font11 > span
+novelpia.com##.s_inv.mobile_hidden > div > div > table > tbody > tr > td > table > tbody > tr > td
+novelpia.com##tr > .mobile_hidden > div
+novelpia.com##.mobile_hidden > [src="/img/new/list/sponsor.png"]
+novelpia.com##tr.ep_style4 > .font12 > div > .font11 > span
+novelpia.com##.ep_style2 > .font11 > span
+novelpia.com###comment_list_box
+novelpia.com##.footer-top-wrapper
+
+toptoon.com##.tit_thumb_p
+toptoon.com##.comic_hit
+toptoon.com##.comic_spoint
+toptoon.com##.subscriber_area
+toptoon.com##.swiper-slide-active.swiper-slide.realtime_list > li > .jsComicObj > .rank_info > .thumb_info > .viewCount
+toptoon.com##.swiper-slide-next.swiper-slide.realtime_list > li > .jsComicObj > .rank_info > .thumb_info > .viewCount
+toptoon.com##.index_plusapp
+toptoon.com###footer
+
+! 2022-06-04 https://namu.wiki
+namu.wiki##.has-tooltip
+
+! 2022-06-04 https://www.webtoonguide.com
+www.webtoonguide.com###toomics-recommend-swiper
+www.webtoonguide.com##div.section-mt.section-box.container:nth-of-type(10)
+www.webtoonguide.com##.wg-hot-article.section-mt.section-box.container
+www.webtoonguide.com###mans-recommend-swiper > .section-mt.section-box.container.webtoonguide-pick-swiper-container
+www.webtoonguide.com##div.section-mt.section-box.container:nth-of-type(19)
+www.webtoonguide.com##.header-middle.container
+
+hiyobi.me##div.xoVcG.sc-kDTinF:nth-of-type(2)
+hiyobi.me##.jSapbz.sc-eCImPb
+hiyobi.me##.bgpIqq.sc-hBUSln
+
+bbs.ruliweb.com##.like_wrapper > .like
+bbs.ruliweb.com##.user_info .like
+bbs.ruliweb.com##.num_reply
+bbs.ruliweb.com##tr.blocktarget.table_body > .recomd
+bbs.ruliweb.com##tr.blocktarget.table_body > .hit
+bbs.ruliweb.com##.subject > .reply_count
+bbs.ruliweb.com##.num_txt
+
+www.comico.kr##.txt_viewer
+
+||arca.live/external/callad$subdocument
+
+||image.fmkorea.com/modules/point/icons/fmkorea10/34.gif?yzv$image
+||image.fmkorea.com/modules/point/icons/fmkorea10/26.gif?yzv$image
+||image.fmkorea.com/modules/point/icons/$image
+www.fmkorea.com##li.li_best2_hotdeal0.li_best2_pop0.li > .li > .title > .hotdeal_var8 > .comment_count
+www.fmkorea.com##.hotdeal_var8.title > .replyNum
+www.fmkorea.com##td.m_no:nth-of-type(5)
+www.fmkorea.com##.m_no_voted.m_no
+www.fmkorea.com##.copyright > div > span
+www.fmkorea.com##section.ul:nth-of-type(1)
+www.fmkorea.com##section.ul:nth-of-type(2)
+www.fmkorea.com##.nplt.adpost_with_thumbnail.adpost
+www.fmkorea.com##.clear.btm_area
+www.fmkorea.com##.banner3-fixed
+
+! 2022-11-15 https://www.kgirls.net
+www.kgirls.net##.replyNum
+
+! 2022-11-17 https://www.afreecatv.com
+www.afreecatv.com###hotIssueLive
+
+
+! 2022-11-23 https://www.dcinside.com
+www.dcinside.com##.p_1.typet_list > li > .main_log > .besttxt.box > .num
+www.dcinside.com##.p_2.typet_list > li > .main_log > .besttxt.box > .num
+www.dcinside.com##.p_3.typet_list > li > .main_log > .besttxt.box > .num
+
+! 2022-11-25 https://music.bugs.co.kr
+music.bugs.co.kr##.like.btnNormal > span > em
+music.bugs.co.kr###basicInfoTotalCount
+music.bugs.co.kr##.desc
+music.bugs.co.kr##.listComments > li
+
+! 2022-11-28 https://www.youtube.com
+www.youtube.com##.ytd-video-masthead-ad-v3-renderer.style-scope
+
+! 2022-11-30 https://page.kakao.com
+page.kakao.com##.css-1ao35gu-ContentOverviewInfo
+page.kakao.com##.css-x1brjj-Metadata-NormalListViewItem
+page.kakao.com##.css-x1brjj-Metadata-NormalListViewItem
+page.kakao.com##.css-12ar9m8-Metadata-PosterViewItem
+page.kakao.com##.px-5pxr.bg-el-60.rounded-16pxr.justify-center.items-center.-translate-y-1\/2.translate-x-1\/2.flex.right-0.top-0.absolute
+webtoon.kakao.com##.overflow-hidden.h-full > .z-navigationBar.right-0.left-0.top-0.fixed.h-header-height.flex.items-center.m-auto.px-18 > .flex-center.inset-0.absolute
+
+@@||namu.wiki/edit$document
+
+! 2022-12-06 https://www.youtube.com
+www.youtube.com###like-button > yt-button-shape > .yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label
+www.youtube.com###comments-button > .ytd-reel-player-overlay-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label
+
+! 2022-12-06 https://twitter.com
+twitter.com##.r-1mdbhws.r-1s2bzr4.r-1wtj0ep.r-18u37iz.r-1ta3fxp.css-1dbjc4n
+twitter.com##.r-1w6e6rj.r-18u37iz.r-13awgt0.css-1dbjc4n
+twitter.com##.r-1yzf0co.r-s1qlax.r-tzz3ar.r-18u37iz.r-13awgt0.r-5kkj8d.r-1efd50x.r-1dgieki.css-1dbjc4n
+
+! 2022-12-20 https://www.youtube.com
+www.youtube.com##yt-formatted-string.ytd-playlist-byline-renderer.style-scope.byline-item:nth-of-type(2)
+www.youtube.com##span.yt-formatted-string.style-scope:nth-of-type(1)
+
+! 2022-12-20 https://pillnaro.tistory.com
+pillnaro.tistory.com##.total
+pillnaro.tistory.com##.today
+pillnaro.tistory.com##.yesterday
+
+bomtoon.com###bt-weekly-list-sun > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-sat > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-mon > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-tue > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-wed > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-thu > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-fri > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-10 > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com###bt-weekly-list-all > li:nth-child(n) > a > div.cont:last-child > p:last-child > span.view
+bomtoon.com##.pop-series-list__view-count
+
+! 2023-02-12 https://www.bomtoon.com
+www.bomtoon.com##.gdm > .grid-list [href] > .cont .view
+www.bomtoon.com##.recent > .grid-list [href] > .cont .view
+www.bomtoon.com##.ranking > .grid-list [href] > .cont .view
+www.bomtoon.com##.swiper-slide-active.swiper-slide-duplicate.swiper-slide > li > [href] > .cont > p > .view
+www.bomtoon.com##.swiper-slide-active.swiper-slide [href] > .cont .view
+www.bomtoon.com##.million > .grid-list [href] > .cont .view
+www.bomtoon.com##[href*="/comic/ep_list/"] > .cont > p > .view
+
+hisoki.me##.mb10.ad-zone.w12
+hisoki.me##div.mt15.ad-zone:nth-of-type(3)
+hisoki.me##article.box.mt15.w12:nth-of-type(2)
+hisoki.me##div.mt15.ad-zone:nth-of-type(4)
+hisoki.me##div.mt15.ad-zone:nth-of-type(5)
+hisoki.me##.ad-zone.mt20
+hisoki.me##article.box.mt15.w12:nth-of-type(3)
+hisoki.me##article.mt15.box.w12:nth-of-type(4)
+hisoki.me##article.box.mt15.w12:nth-of-type(5)
+hisoki.me##.date
+hisoki.me##.mb15.list-inner.ad-zone.w12
+
+www.bomtoon.com###bt-btn-comment > .bt-comment-count
+www.bomtoon.com##.c-a4.btn-arr-right
+
+twitter.com##.r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao > .r-1udh08x.r-xoduu5.css-1dbjc4n .r-qvutc0.r-bcqeeo.r-1cwl3u0.r-b88u0q.r-1b43r93.r-poiln3.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao
+twitter.com##.r-qvutc0.r-1e081e0.r-1k6nrdp.r-1cwl3u0.r-n6v787.r-poiln3.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao
+
+kktv01.com##u-chat > iframe
+
+! 2023-02-12 https://hisoki.me
+hisoki.me##.hidem.star
+
+! 2023-02-14 https://www.bomtoon.com
+www.bomtoon.com##.btn-comment > .bt-comment-count
+
+! 2023-03-25 https://page.kakao.com
+page.kakao.com##.mt-30pxr > div.justify-between.flex
+page.kakao.com##.css-0.font-x-small1.text-el-50.line-clamp-1.text-ellipsis
+
+! 2023-05-08 https://www.fmkorea.com
+www.fmkorea.com##.replyNum
+www.fmkorea.com##.m_no_voted.m_no
+www.fmkorea.com##.fr.side
+www.fmkorea.com##.css3pie.bg_f_f9.fdb_tag
+www.fmkorea.com##th.m_no:nth-of-type(6)
+
+! 2023-05-09 https://noonborayang.tistory.com
+noonborayang.tistory.com##.article_util
+
+! 2023-05-22 https://comic.naver.com
+comic.naver.com##.EpisodeListUser__count--fNEWK
+
+! 2023-06-04 https://nene02.com
+nene02.com##div.at-side.at-col.col-md-3:nth-of-type(1)
+
+! 2023-06-09 https://www.youtube.com
+www.youtube.com##.ytd-watch-card-compact-video-renderer.style-scope.subtitle
+
+! 2023-06-09 https://www.instagram.com
+www.instagram.com##._a6hd._alvs.x1a2a7pz.xggy1nq.x1hl2dhg.x16tdsg8.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.xe8uvvx.xt0psk2.x1ypdohk.x9f619.xav7gou.xaqea5y.x1b1mbwd.x6umtig.xjbqb8w.x1i10hfl
+
+! 2023-06-15 https://www.bilibili.com
+www.bilibili.com##.item.view
+www.bilibili.com##.item.dm
+www.bilibili.com##.playinfo
+www.bilibili.com##.is-version8.container > div.is-rcmd.bili-video-card > .__scale-wrap.bili-video-card__wrap > .__scale-disable.bili-video-card__info > .bili-video-card__info--right > .bili-video-card__info--bottom > .bili-video-card__info--icon-text
+www.bilibili.com##.video-stat
+www.bilibili.com##.weak-tag.rcmd-tag
+
+! 2023-06-17 https://www.youtube.com
+www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-reel-shelf-renderer.style-scope
+
+! 2023-07-15 https://www.youtube.com
+www.youtube.com###subtitle
+
+! 2023-07-17 https://novelpia.com
+novelpia.com##.user-info
+novelpia.com##.view-like-info
+novelpia.com##.like-btn > span
+novelpia.com##.thumb_s5 > .thumb_s4
+novelpia.com##.epi-comment-cnt
+
+gall.dcinside.com##.reply_num
+gall.dcinside.com##tr.us-post.ub-content > .gall_count
+gall.dcinside.com##tr.us-post.ub-content > .gall_recommend
+gall.dcinside.com##.morebox.recomuse_y.btn_recommend_box
+gall.dcinside.com##.num_box.fl
+gall.dcinside.com##tr.ub-content > .gall_count
+gall.dcinside.com##.gall_recommend
+
+music.youtube.com##.complex-string.ytmusic-player-bar.style-scope.byline > span.yt-formatted-string.style-scope
+
+www.fmkorea.com##.comment_count
+www.fmkorea.com##.new_voted_count.btn_img
+www.fmkorea.com##.voted_count
+
+www.melon.com###frm_searchSong > .songTypeOne.d_song_list.tb_list > table > tbody > tr > td.t_left > .right_none.wrap > .like.btn_icon > .cnt
+www.melon.com###frm_searchAlbum > .songTypeOne.d_song_list.tb_list > table > tbody > tr > td.t_left > .right_none.wrap > .like.btn_icon > .cnt
+www.melon.com##.cnt_view
+www.melon.com##.d_btn.btn_like
+www.melon.com##.like_info
+www.melon.com##.cnt
+
+musicy.kr##.gnb__today
+
+vibe.naver.com##.end_comment
+
+www.melon.com##.show
+www.melon.com##.share
+www.melon.com##.section_cmt
+www.melon.com##.section_intst
+www.melon.com##.d_play_list.dj_songinfo > dl > .wrap_btn
+www.melon.com##.d_cmtpgn
+||cdnimg.melon.co.kr/resource/image/web/mymusic/bul_title.png$image
+www.melon.com##.mt30.section_playlist > .arr.line.title
+www.melon.com##.yfan.d_artist_list.section_playlist
+www.melon.com##.rtcont
+
+music.bugs.co.kr##.sectionPadding.commentsCommon
+music.bugs.co.kr##.like.btnNormal > em
+
+www.melon.com##.d_djcol_list.my_dj.dj_songinfo > dl > .wrap_btn
+
+www.genie.co.kr##.daily-chart.aside-zone
+www.genie.co.kr###emLikeCount
+www.genie.co.kr##.reply_area
+
+ridibooks.com##.metadata_rate
+ridibooks.com##.hidden_for_landscape.star_rate.book_metadata > .RSGBookMetadata_StarRate
+ridibooks.com##.review_input_left
+
+mobikf.ncctvgroup.com###commentics
+
+www.music-flo.com##.music_preview.snackbar_static.snack_bar
+
+hiphople.com##[href="#comment"]
+hiphople.com##span > .ab-point-color
+
+blog.naver.com##.align_center.ssp-adcontent
+blog.naver.com###ssp-adpost
+
+! 2023-12-04 https://www.naver.com
+www.naver.com##.id_recommend.Layout-module__content_area___b_3TU
+www.naver.com##.id_webtoon.Layout-module__content_area___b_3TU
+
+! 2023-12-04 https://search.shopping.naver.com
+search.shopping.naver.com##.horizontalBookCards_review__gQCkw > em
+search.shopping.naver.com##.bookReview_num__WC_Im
+
+! 2023-11-04 https://twitter.com
+twitter.com##div.r-1h0z5md.r-18u37iz.r-13awgt0.css-1dbjc4n
+
+! 2023-11-09 https://www.bing.com
+www.bing.com##.hpapp
+
