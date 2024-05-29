@@ -10,8 +10,6 @@ n.news.naver.com##.pc_hidden.shortform
 m.naver.com##.MM_SHORTFORM_REFRESH_CARD.native_scroll.scroll-area
 
 
-namu.wiki##.has-tooltip
-
 ! 2022-05-14 http://gltv24.com
 gltv24.com###addon-popup-layer
 gltv24.com##div.xe-widget-wrapper > div > div
