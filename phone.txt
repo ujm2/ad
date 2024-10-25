@@ -30,20 +30,6 @@ m.dcinside.com##.dori-icon-txt
 m.dcinside.com##.dori-icon.sp-icon
 m.dcinside.com##.up-add
 
-m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(1)
-m.youtube.com##ytm-sentiment-factoid-renderer > ytm-factoid-renderer > .factoid
-m.youtube.com##.factoids > ytm-factoid-renderer:nth-of-type(1) > .factoid
-m.youtube.com##.slim-owner-bylines-modern.slim-owner-bylines > .subhead
-m.youtube.com##.comments-entry-point-header-text > .formatted-string-text
-m.youtube.com##.secondary-text.c4-tabbed-header-subscriber-count
-m.youtube.com##.subhead
-m.youtube.com##.slim-video-information-title-and-badges > div > .secondary-text > .yt-core-attributed-string
-m.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next
-m.youtube.com##.comments-entry-point-header-text > .yt-core-attributed-string
-m.youtube.com##.ytm-video-description-infocards-section-subtitle > .yt-core-attributed-string
-m.youtube.com##.watch-card-metadata-container
-
-
 m.fmkorea.com##.comment_count
 m.fmkorea.com##.voted_count
 m.fmkorea.com##.responsive_fill.fm_google_a
@@ -61,17 +47,6 @@ m.fmkorea.com##.m.adpost_with_thumbnail.adpost_search.adpost
 m.fmkorea.com##.new_voted_count.btn_img
 m.fmkorea.com##.bd_lst_wrp > [src]
 m.fmkorea.com##.ad_wrapper.fmad_naver_power_link.fmad_wrapper  
-
-
-m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(3)
-m.youtube.com##.c4-tabbed-header-modern-metadata
-m.youtube.com##p:nth-of-type(3) > .yt-core-attributed-string
-m.youtube.com##.comments-entry-point-header-count > .yt-core-attributed-string
-m.youtube.com##ytm-badge-and-byline-renderer:nth-of-type(2)
-m.youtube.com##ytm-toggle-button-renderer > .yt-spec-button-shape-with-label--is-overlay.yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
-m.youtube.com##.icon-shorts_comment > .yt-spec-button-shape-with-label--is-overlay.yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
-m.youtube.com##.ytm-comments-entry-point-teaser-content > .yt-core-attributed-string
-m.youtube.com##ytm-comments-entry-point-teaser-renderer
 
 kr2.hasha.in##div.rTQr.sc-cUEOzv
 kr2.hasha.in##.bg-hasha-1-l.rounded.text.p-5 > div > .justify-center.flex > div
