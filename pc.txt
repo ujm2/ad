@@ -442,3 +442,103 @@ twitter.com##div.r-1h0z5md.r-18u37iz.r-13awgt0.css-1dbjc4n
 ! 2023-11-09 https://www.bing.com
 www.bing.com##.hpapp
 
+! 2024-01-24 https://twitter.com
+twitter.com##div.r-13awgt0.r-1h0z5md.r-18u37iz.css-175oi2r
+
+! 2024-03-24 https://arca.live
+arca.live##.comment-count
+arca.live##a.column.vrow > .vrow-inner > .vrow-bottom > .col-view.vcol
+arca.live##a.column.vrow > .vrow-inner > .vrow-bottom > .col-rate.vcol
+arca.live##span.body:nth-of-type(11)
+arca.live##span.body:nth-of-type(8)
+arca.live##span.body:nth-of-type(2)
+arca.live##span.body:nth-of-type(5)
+
+! 2024-04-07 https://twitter.com
+twitter.com##.r-1udh08x.r-xoduu5.css-175oi2r .r-b88u0q.r-1cwl3u0.r-1b43r93.r-poiln3.r-qvutc0.r-bcqeeo.css-1qaijid > .r-poiln3.r-qvutc0.r-bcqeeo.css-1qaijid
+
+! 2024-04-07 https://www.bomtoon.com
+www.bomtoon.com##.iKSaWc.CountContainer__Container-sc-1e77bkk-0
+
+! 2024-04-18 https://kr4.hasha.in
+||bid.onclckbn.com/get/$subdocument
+kr4.hasha.in##.amMb78RPPU8tNuFfBZUD.YokoqvKWHQxGvKvhfbB_.sXMjiAYIyLfUvykrs3RT.uYZBnLDnIyswhKWzZLSW.VjIk2TJT4stQgyeHQSMo.YT4KyBxROV_k96PW_DLJ.GOHCjNcqdqGuHlqPKqqU._4KjPzfFqnPyBgIgiXkX
+kr4.hasha.in##div.max-w-full.flex-col.flex.mb-6.mx-auto.w-fit:nth-of-type(3)
+kr4.hasha.in##.bMNdSE.sc-fbYMXx > .flex
+kr4.hasha.in##span:nth-of-type(2)
+
+! 2024-04-24 https://twitter.com
+twitter.com##.r-1w6e6rj.r-18u37iz.r-13awgt0.css-175oi2r
+
+! 2024-04-25 https://k.dillyhub.com
+k.dillyhub.com##.mobileNav_btn_comment__1pYUK
+
+! 2024-05-06 https://page.kakao.com
+page.kakao.com##.mt-4pxr.items-center.flex > .font-x-small1.text-el-50.line-clamp-1.text-ellipsis > span.align-middle.break-all
+page.kakao.com##.\[\&\>\*\:not\(\:last-child\)\]\:mr-10pxr.all-child\:font-small2.justify-center.items-center.h-16pxr.flex > div.items-center.flex:nth-of-type(2) > .opacity-70.text-el-70
+
+! 2024-05-06 https://kr4.hasha.in
+kr4.hasha.in##.iv6bGFFrBm2OTsdCZq8K
+
+! 2024-05-18 https://x.com
+x.com##.r-1s2bzr4.r-1ye8kvj.r-1wtj0ep.r-18u37iz.r-1kbdv8c.css-175oi2r
+x.com##.r-1ye8kvj.r-3pj75a.r-13qz1uu.r-f8sm7e.css-175oi2r
+x.com##.r-qklmqi.r-rull8r.r-j5o65s.r-1wtj0ep.r-h3s6tt.r-5kkj8d.r-1efd50x.r-1dgieki.r-n7gxbd.r-3qxfft.r-1oszu61.r-18u37iz.r-1kbdv8c.css-175oi2r
+x.com##.r-1udh08x.r-xoduu5.css-175oi2r
+
+! 2024-05-20 https://x.com
+x.com##.r-b88u0q.r-1cwl3u0.r-1b43r93.r-poiln3.r-qvutc0.r-1ttztb7.r-bcqeeo.css-1jxf684 > .r-poiln3.r-qvutc0.r-1ttztb7.r-bcqeeo.css-1jxf684
+
+! 2024. 6. 6. https://kr4.hasha.in
+kr4.hasha.in##.amMb78RPPU8tNuFfBZUD.YokoqvKWHQxGvKvhfbB_.sXMjiAYIyLfUvykrs3RT.uYZBnLDnIyswhKWzZLSW.VjIk2TJT4stQgyeHQSMo.YT4KyBxROV_k96PW_DLJ._Y4RX_iS668QQk_wmtaZ._4KjPzfFqnPyBgIgiXkX
+
+! 2024. 7. 7. https://kr4.hasha.in
+kr4.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 .justify-center.flex
+
+! 2024. 10. 1. https://m.naver.com
+m.naver.com##.is_current.flick-panel > .viewer_wrap > .section_info > .si_tool_wrap > .si_tool_inner > .si_tool_area > .si_tool_box > div.si_btn_wrap > .type_like.si_btn > .si_text
+m.naver.com##.is_current.flick-panel > .viewer_wrap > .section_info > .si_tool_wrap > .si_tool_inner > .si_tool_area > .si_tool_box > button.si_btn > .si_text
+
+! 2024. 10. 25. https://www.youtube.com
+www.youtube.com##div.yt-content-metadata-view-model-wiz__metadata-row--metadata-row-inline.yt-content-metadata-view-model-wiz__metadata-row:nth-of-type(2) > span.yt-core-attributed-string--link-inherit-color.yt-core-attributed-string--white-space-pre-wrap.yt-content-metadata-view-model-wiz__metadata-text.yt-core-attributed-string:nth-of-type(1)
+
+! 2024. 10. 26. https://www.youtube.com
+www.youtube.com##.ytd-ad-slot-renderer.style-scope
+www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
+www.youtube.com###owner-sub-count
+www.youtube.com###view-count
+www.youtube.com###subtitle
+www.youtube.com##.ShortsLockupViewModelHostOutsideMetadataSubhead.ShortsLockupViewModelHostMetadataSubhead > .yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
+www.youtube.com###like-button > yt-button-shape > .yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
+www.youtube.com###comments-button > .ytd-reel-player-overlay-renderer.style-scope > yt-button-shape > .yt-spec-button-shape-with-label > .yt-spec-button-shape-with-label__label > .yt-core-attributed-string--word-wrapping.yt-core-attributed-string--text-alignment-center.yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
+www.youtube.com##.yt-spec-button-view-model > .yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--enable-backdrop-filter-experiment > .yt-spec-button-shape-next__button-text-content
+www.youtube.com###contextual-info
+
+www.youtube.com###info > span.bold.yt-formatted-string.style-scope:nth-of-type(1)
+www.youtube.com###additional-info-container
+
+! 2024. 10. 26. https://www.youtube.com
+www.youtube.com##.ytd-comments-header-renderer.style-scope.count-text > span.yt-formatted-string.style-scope
+www.youtube.com##span.ytd-grid-video-renderer.style-scope:nth-of-type(1)
+www.youtube.com###video-count
+
+! 2025. 1. 5. https://www.youtube.com
+www.youtube.com##.yt-spec-button-shape-next--segmented-start.yt-spec-button-shape-next--icon-leading.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next > .yt-spec-button-shape-next__button-text-content
+
+! 2025. 1. 31. https://comic.naver.com
+comic.naver.com##.UserAction__star--bi4ea.UserAction__item--vnknf > .UserAction__count--jk3vo
+comic.naver.com##.UserAction__favorite--xLZK0.UserAction__item--vnknf > .UserAction__count--jk3vo
+
+! 2025. 2. 8. https://www.youtube.com
+www.youtube.com##.shortsLockupViewModelHostOutsideMetadataSubhead.shortsLockupViewModelHostMetadataSubhead > .yt-core-attributed-string--white-space-pre-wrap.yt-core-attributed-string
+
+! 2025. 2. 15. https://www.youtube.com
+www.youtube.com##span.yt-formatted-string.style-scope:nth-of-type(1)
+
+! 2025. 2. 15. https://www.facebook.com
+www.facebook.com##.x16n37ib.x1e56ztr.xq8finb.x1xmf6yo > div > .x1iyjqo2.x78zum5 > .x1n2onr6.xeuugli.x13a6bvl.xs83m0k.x1iyjqo2.x78zum5 > .x10wlt62.x6ikm8r.xyesn5m.x13a6bvl.x1a02dak.x78zum5.xi81zsa.x6s0dn4
+
+! 영상 끝나고 나오는 9개 사진에 마우스 갖다댔을 때 나오는 조회수 삭제 : 동영상 업로더도 함께 지워짐, hasText + 정규식으로 조회수 ~회 부분만 지우고 싶은다 아직 안됨
+www.youtube.com##span.ytp-videowall-still-info-author
+
+
