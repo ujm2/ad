@@ -541,4 +541,7 @@ www.facebook.com##.x16n37ib.x1e56ztr.xq8finb.x1xmf6yo > div > .x1iyjqo2.x78zum5 
 ! 영상 끝나고 나오는 9개 사진에 마우스 갖다댔을 때 나오는 조회수 삭제 : 동영상 업로더도 함께 지워짐, hasText + 정규식으로 조회수 ~회 부분만 지우고 싶은다 아직 안됨
 www.youtube.com##span.ytp-videowall-still-info-author
 
+! 재생목록 내의 조회수
+www.youtube.com##span.yt-core-attributed-string--link-inherit-color.yt-core-attributed-string--white-space-pre-wrap.yt-content-metadata-view-model-wiz__metadata-text.yt-core-attributed-string:nth-of-type(7)
+
 
