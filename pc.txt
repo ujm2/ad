@@ -499,6 +499,14 @@ kr4.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-sol
 m.naver.com##.is_current.flick-panel > .viewer_wrap > .section_info > .si_tool_wrap > .si_tool_inner > .si_tool_area > .si_tool_box > div.si_btn_wrap > .type_like.si_btn > .si_text
 m.naver.com##.is_current.flick-panel > .viewer_wrap > .section_info > .si_tool_wrap > .si_tool_inner > .si_tool_area > .si_tool_box > button.si_btn > .si_text
 
+! 2026 youtube 신규
+! 유튜브 조회수 차단 (오른쪽 목록)
+www.youtube.com##.ytLockupViewModelHost .ytContentMetadataViewModelMetadataRow:nth-of-type(2) > span.ytContentMetadataViewModelMetadataText:nth-of-type(1)
+
+! 유튜브 영상종료후 썸네일에서 조회수+날짜 함께 차단
+www.youtube.com##.ytp-modern-videowall-still-view-count-and-date-info
+
+
 ! 2024. 10. 25. https://www.youtube.com
 www.youtube.com##div.yt-content-metadata-view-model-wiz__metadata-row--metadata-row-inline.yt-content-metadata-view-model-wiz__metadata-row:nth-of-type(2) > span.yt-core-attributed-string--link-inherit-color.yt-core-attributed-string--white-space-pre-wrap.yt-content-metadata-view-model-wiz__metadata-text.yt-core-attributed-string:nth-of-type(1)
 
