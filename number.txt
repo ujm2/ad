@@ -14,8 +14,61 @@ kr3.hasha.in##div.undefined.cursor-pointer.px-4.border-hasha-2\/\[\.80\].border-
 kr3.hasha.in##.shadow-hasha-3\/\[\.2\].shadow.border-hasha-2\/\[\.7\].border-solid.border.bg-hasha-1-l.rounded.text.p-5 .justify-center.flex
 kr3.hasha.in##div.mx-auto.w-fit:nth-of-type(2)
 
+! 토끼 신규 대체 : 일단 469만 (설명부분 추가)
+! 2026. 4. 17. https://manatoki469.net
+! 메인 상단 광고바
+manatoki469.net###main-banner-view
 
+! 2026. 4. 17. https://manatoki469.net
+! 메인 우측 주간 베스트
+manatoki469.net##div.row-15.row:nth-of-type(2) > div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(2) > .tabs-black-top.tabs.div-tab
 
+! 2026. 4. 17. https://manatoki469.net
+! 메인 만화 댓글수
+manatoki469.net##.trans-bg-black.ellipsis.in-subject > .pull-right > .orangered.count
+
+! 2026. 4. 17. https://manatoki469.net
+! 만화설명부분 상단 광고
+manatoki469.net###id_mbv
+
+! 2026. 4. 17. https://manatoki469.net
+! 만화설명부분 하단만화리스트 조회수
+manatoki469.net##li.list-item > .hidden-xs.wr-hit
+! 만화설명부분 하단만화리스트 좋아요
+manatoki469.net##li.list-item > .hidden-xs.wr-good
+
+! 2026. 4. 17. https://manatoki469.net
+! 만화설명부분 하단만화리스트 댓글수
+manatoki469.net##.hidden-xs.orangered.count
+
+! 2026. 4. 17. https://manatoki469.net
+! 만화설명부분 하단만화리스트 별점
+manatoki469.net##.hidden-xs.wr-star > span
+
+! 2026. 4. 17. https://manatoki469.net
+! 만화설명부분 좋아요수(빨간버튼)
+manatoki469.net##.btn-sm.btn-red.btn
+
+! 2026. 4. 17. https://manatoki469.net
+! 만화설명부분 하단만화리스트 별점(흰색버튼)
+manatoki469.net##button.btn-sm.btn-white.btn
+
+! 2026. 4. 17. https://manatoki469.net
+! 만화목록 댓글수 + 좋아요수
+manatoki469.net##[href] > span.count
+
+! 2026. 4. 17. https://manatoki469.net
+! 만화목록 조회수
+manatoki469.net##.post-info.pull-right .count
+
+! 만화상세 좋아요버튼
+manatoki469.net###wr_good
+
+! 2026. 4. 17. https://manatoki469.net
+! 만화상세 댓글수란(별점 등 포함)
+manatoki469.net##.en.font-18.view-comment
+
+! 토끼 구버전 삭제 (28)
 #manatoki450.net,manatoki451.net,manatoki452.net,manatoki453.net,manatoki454.net,manatoki455.net,manatoki456.net,manatoki457.net,manatoki458.net,manatoki459.net,manatoki460.net,manatoki461.net,manatoki462.net,manatoki463.net,manatoki464.net,manatoki465.net,manatoki466.net,manatoki467.net,manatoki468.net,manatoki469.net,manatoki470.net,manatoki471.net,manatoki472.net,manatoki473.net,manatoki474.net,manatoki475.net,manatoki476.net,manatoki477.net,manatoki478.net,manatoki479.net,manatoki480.net,manatoki481.net,manatoki482.net,manatoki483.net,manatoki484.net,manatoki485.net,manatoki486.net,manatoki487.net,manatoki488.net,manatoki489.net,manatoki490.net,manatoki491.net,manatoki492.net,manatoki493.net,manatoki494.net,manatoki495.net,manatoki496.net,manatoki497.net,manatoki498.net,manatoki499.net,manatoki500.net,manatoki501.net,manatoki502.net,manatoki503.net,manatoki504.net,manatoki505.net,manatoki506.net,manatoki507.net,manatoki508.net,manatoki509.net,manatoki510.net,manatoki511.net,manatoki512.net,manatoki513.net,manatoki514.net,manatoki515.net,manatoki516.net,manatoki517.net,manatoki518.net,manatoki519.net,manatoki520.net,manatoki521.net,manatoki522.net,manatoki523.net,manatoki524.net,manatoki525.net,manatoki526.net,manatoki527.net,manatoki528.net,manatoki529.net,manatoki530.net,manatoki531.net,manatoki532.net,manatoki533.net,manatoki534.net,manatoki535.net,manatoki536.net,manatoki537.net,manatoki538.net,manatoki539.net,manatoki540.net,manatoki541.net,manatoki542.net,manatoki543.net,manatoki544.net,manatoki545.net,manatoki546.net,manatoki547.net,manatoki548.net,manatoki549.net,manatoki550.net,manatoki551.net,manatoki552.net,manatoki553.net,manatoki554.net,manatoki555.net,manatoki556.net,manatoki557.net,manatoki558.net,manatoki559.net,manatoki560.net,manatoki561.net,manatoki562.net,manatoki563.net,manatoki564.net,manatoki565.net,manatoki566.net,manatoki567.net,manatoki568.net,manatoki569.net,manatoki570.net,manatoki571.net,manatoki572.net,manatoki573.net,manatoki574.net,manatoki575.net,manatoki576.net,manatoki577.net,manatoki578.net,manatoki579.net,manatoki580.net,manatoki581.net,manatoki582.net,manatoki583.net,manatoki584.net,manatoki585.net,manatoki586.net,manatoki587.net,manatoki588.net,manatoki589.net,manatoki590.net,manatoki591.net,manatoki592.net,manatoki593.net,manatoki594.net,manatoki595.net,manatoki596.net,manatoki597.net,manatoki598.net,manatoki599.net##.widget-side-line > .row-15.row
 
 #manatoki450.net,manatoki451.net,manatoki452.net,manatoki453.net,manatoki454.net,manatoki455.net,manatoki456.net,manatoki457.net,manatoki458.net,manatoki459.net,manatoki460.net,manatoki461.net,manatoki462.net,manatoki463.net,manatoki464.net,manatoki465.net,manatoki466.net,manatoki467.net,manatoki468.net,manatoki469.net,manatoki470.net,manatoki471.net,manatoki472.net,manatoki473.net,manatoki474.net,manatoki475.net,manatoki476.net,manatoki477.net,manatoki478.net,manatoki479.net,manatoki480.net,manatoki481.net,manatoki482.net,manatoki483.net,manatoki484.net,manatoki485.net,manatoki486.net,manatoki487.net,manatoki488.net,manatoki489.net,manatoki490.net,manatoki491.net,manatoki492.net,manatoki493.net,manatoki494.net,manatoki495.net,manatoki496.net,manatoki497.net,manatoki498.net,manatoki499.net,manatoki500.net,manatoki501.net,manatoki502.net,manatoki503.net,manatoki504.net,manatoki505.net,manatoki506.net,manatoki507.net,manatoki508.net,manatoki509.net,manatoki510.net,manatoki511.net,manatoki512.net,manatoki513.net,manatoki514.net,manatoki515.net,manatoki516.net,manatoki517.net,manatoki518.net,manatoki519.net,manatoki520.net,manatoki521.net,manatoki522.net,manatoki523.net,manatoki524.net,manatoki525.net,manatoki526.net,manatoki527.net,manatoki528.net,manatoki529.net,manatoki530.net,manatoki531.net,manatoki532.net,manatoki533.net,manatoki534.net,manatoki535.net,manatoki536.net,manatoki537.net,manatoki538.net,manatoki539.net,manatoki540.net,manatoki541.net,manatoki542.net,manatoki543.net,manatoki544.net,manatoki545.net,manatoki546.net,manatoki547.net,manatoki548.net,manatoki549.net,manatoki550.net,manatoki551.net,manatoki552.net,manatoki553.net,manatoki554.net,manatoki555.net,manatoki556.net,manatoki557.net,manatoki558.net,manatoki559.net,manatoki560.net,manatoki561.net,manatoki562.net,manatoki563.net,manatoki564.net,manatoki565.net,manatoki566.net,manatoki567.net,manatoki568.net,manatoki569.net,manatoki570.net,manatoki571.net,manatoki572.net,manatoki573.net,manatoki574.net,manatoki575.net,manatoki576.net,manatoki577.net,manatoki578.net,manatoki579.net,manatoki580.net,manatoki581.net,manatoki582.net,manatoki583.net,manatoki584.net,manatoki585.net,manatoki586.net,manatoki587.net,manatoki588.net,manatoki589.net,manatoki590.net,manatoki591.net,manatoki592.net,manatoki593.net,manatoki594.net,manatoki595.net,manatoki596.net,manatoki597.net,manatoki598.net,manatoki599.net##article > div:nth-of-type(8)
